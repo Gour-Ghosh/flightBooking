@@ -34,7 +34,7 @@ const Support = () => {
                             <p>Find help with booking and travel plans, see what to expect along the journey to your favorite destinations!</p>
                         </div>
                     </div>
-                    <div data-aos='fade-left' data-aos-duration="2500" className="imgDiv">
+                    <div data-aos='fade-right' data-aos-duration="2500" className="imgDiv">
                         <img src={support} />
                     </div>
                 </div>
